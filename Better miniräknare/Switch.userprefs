@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9C1AC0A4-EBF4-490B-96BD-649608C30B7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Miniräknare/Miniräknare/Program.cs">
+    <Files>
+      <File FileName="Switch/Program.cs" Line="31" Column="45" />
+      <File FileName="../Miniräknare/Miniräknare/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

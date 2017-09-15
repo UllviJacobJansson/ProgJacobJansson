@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/Miniräknare/Miniräknare/bin/Debug/Miniräknare.exe
+/Users/jacobjansson/Projects/Miniräknare/Miniräknare/bin/Debug/Miniräknare.pdb
+/Users/jacobjansson/Projects/Miniräknare/Miniräknare/obj/x86/Debug/Miniräknare.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/Miniräknare/Miniräknare/obj/x86/Debug/Miniräknare.exe
+/Users/jacobjansson/Projects/Miniräknare/Miniräknare/obj/x86/Debug/Miniräknare.pdb

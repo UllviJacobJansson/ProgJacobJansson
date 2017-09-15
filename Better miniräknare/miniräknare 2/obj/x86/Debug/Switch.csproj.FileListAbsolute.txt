@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/Switch/Switch/obj/x86/Debug/Switch.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/Switch/Switch/bin/Debug/Switch.exe
+/Users/jacobjansson/Projects/Switch/Switch/bin/Debug/Switch.pdb
+/Users/jacobjansson/Projects/Switch/Switch/obj/x86/Debug/Switch.exe
+/Users/jacobjansson/Projects/Switch/Switch/obj/x86/Debug/Switch.pdb
