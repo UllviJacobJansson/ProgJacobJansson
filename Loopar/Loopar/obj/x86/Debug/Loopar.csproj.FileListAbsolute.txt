@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/Loopar/Loopar/obj/x86/Debug/Loopar.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/Loopar/Loopar/bin/Debug/Loopar.exe
+/Users/jacobjansson/Projects/Loopar/Loopar/bin/Debug/Loopar.pdb
+/Users/jacobjansson/Projects/Loopar/Loopar/obj/x86/Debug/Loopar.exe
+/Users/jacobjansson/Projects/Loopar/Loopar/obj/x86/Debug/Loopar.pdb

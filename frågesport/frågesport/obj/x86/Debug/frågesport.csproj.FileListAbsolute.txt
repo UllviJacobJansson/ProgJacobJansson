@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/frågesport/frågesport/obj/x86/Debug/frågesport.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/frågesport/frågesport/bin/Debug/frågesport.exe
+/Users/jacobjansson/Projects/frågesport/frågesport/bin/Debug/frågesport.pdb
+/Users/jacobjansson/Projects/frågesport/frågesport/obj/x86/Debug/frågesport.exe
+/Users/jacobjansson/Projects/frågesport/frågesport/obj/x86/Debug/frågesport.pdb

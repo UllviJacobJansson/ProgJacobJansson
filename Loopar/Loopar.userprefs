@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{C8AC7FC0-D922-4CDB-885C-4275EC8C40AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loopar/Program.cs">
+    <Files>
+      <File FileName="Loopar/Program.cs" Line="57" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

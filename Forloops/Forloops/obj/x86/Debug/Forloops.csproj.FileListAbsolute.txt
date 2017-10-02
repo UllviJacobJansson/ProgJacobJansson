@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/Forloops/Forloops/bin/Debug/Forloops.exe
+/Users/jacobjansson/Projects/Forloops/Forloops/bin/Debug/Forloops.pdb
+/Users/jacobjansson/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.exe
+/Users/jacobjansson/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.pdb

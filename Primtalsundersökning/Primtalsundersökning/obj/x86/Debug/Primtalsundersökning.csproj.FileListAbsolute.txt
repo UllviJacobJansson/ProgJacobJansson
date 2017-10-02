@@ -1,0 +1,5 @@
+/Users/jacobjansson/Projects/Primtalsundersökning/Primtalsundersökning/obj/x86/Debug/Primtalsundersökning.csproj.CoreCompileInputs.cache
+/Users/jacobjansson/Projects/Primtalsundersökning/Primtalsundersökning/bin/Debug/Primtalsundersökning.exe
+/Users/jacobjansson/Projects/Primtalsundersökning/Primtalsundersökning/bin/Debug/Primtalsundersökning.pdb
+/Users/jacobjansson/Projects/Primtalsundersökning/Primtalsundersökning/obj/x86/Debug/Primtalsundersökning.exe
+/Users/jacobjansson/Projects/Primtalsundersökning/Primtalsundersökning/obj/x86/Debug/Primtalsundersökning.pdb

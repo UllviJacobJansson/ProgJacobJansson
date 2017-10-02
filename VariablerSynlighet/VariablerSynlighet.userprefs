@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{079D8782-1CBD-4196-AF07-84D510401D80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariablerSynlighet/Program.cs">
+    <Files>
+      <File FileName="VariablerSynlighet/Program.cs" Line="14" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VariablerSynlighet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

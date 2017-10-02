@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{908E6C33-CF50-4C06-A6CC-12AF19D26169}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Primtalsundersökning/Program.cs">
+    <Files>
+      <File FileName="Primtalsundersökning/Program.cs" Line="9" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
